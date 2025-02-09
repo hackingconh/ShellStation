@@ -43,15 +43,24 @@ Este método solo funciona si el autorun está activado, en tu caso si no esta a
 
 3. Ahora preparamos el USB para crear el autorun.
    - Pimero formatea el usb
-   - Crea un archivo llamado autorun.inf en la raiz del USB
+   - Descargate la tool para windows Usb autorun creator
+   - https://www.samlogic.net/usb-autorun-creator-spanish/usb-autorun-creator-spanish.htm
 
-![image](https://github.com/user-attachments/assets/29d216a5-c32e-4d2b-ae8a-8a2a353eb341)
+![image](https://github.com/user-attachments/assets/7a52ae47-5d44-41bb-9ba6-cd911fc354eb)
 
 4. Crea el script de ejecución automática
   - Como autorun.inf no ejecuta scripts directamente en versiones modernas, usamos un archivo .bat para llamar a PowerShell.
   - En la raíz del USB, crea un archivo llamado launcher.bat y añade:
 
 ![image](https://github.com/user-attachments/assets/b9f181bd-1407-4273-831c-3fe27ee6009c)
+
+  - Si Windows bloquea launcher.bat, conviértelo en un .exe para evitar sospechas.
+      -  Usa Bat To Exe Converter
+      -  Cargar launcher.bat y exportarlo como launcher.exe
+      -  Guardar launcher.exe en el USB
+  - Configura el USB para añadir el autorun:
+
+![Captura de pantalla 2025-02-09 050038](https://github.com/user-attachments/assets/0305efb2-3393-4d9d-9b53-628c4219aced)
 
 5. Crea la reverse shell en powershell (En mi caso cree una tool para crearla automaticámente) | NO voy a enseñar como se hace, te lo dejo como tarea para que aprendas :)
 6. Ofuscar la Reverse Shell con Invoke-Obfuscation
@@ -77,6 +86,9 @@ Este método solo funciona si el autorun está activado, en tu caso si no esta a
 
 ![image](https://github.com/user-attachments/assets/a7adb38c-961a-4736-8025-15b2beda96e1)
 
+# Opinión personal
+
+Se puede mejorar añadiendo una rubber ducky, actualizare el post cuando tenga una. 
 
 
 
