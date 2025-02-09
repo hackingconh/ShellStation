@@ -37,7 +37,7 @@ Este método solo funciona si el autorun está activado, en tu caso si no esta a
 
 ![image](https://github.com/user-attachments/assets/659c7efb-8473-4dcb-a9f0-d22f8fecaa32)
 
-2. Una vez emplamados, abrirmos el mando lo apegamos al mando (con silicona, pegamento fuerte o modo gitamo "en mi caso" con cinta)
+2. Una vez emplamados, abrirmos el mando lo apegamos al mando (con silicona, pegamento fuerte o modo gitano "en mi caso" con cinta)
 
 ![image](https://github.com/user-attachments/assets/6ef44604-2d1c-422f-ab37-cedf5a3980d2)
 
