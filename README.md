@@ -31,7 +31,7 @@ Este método solo funciona si el autorun está activado, en tu caso si no esta a
 
 ![image](https://github.com/user-attachments/assets/c3d4e377-f794-4f23-8a97-567f73e9cd38)
 
-# Creación del USB escondido 
+# Tutorial
 
 1. Primero lo que tenemos que hacer es empalmar el cableado macho a el cable hembra ya que en mi caso no disponia de un calbe macho y hembra si no hembra y tipo B :(
 
