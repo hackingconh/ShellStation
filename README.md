@@ -27,6 +27,7 @@ Todo lo mostrado es con fines educativos para demostrar que hay que proteger nue
 ![image](https://github.com/user-attachments/assets/25f3957b-ff72-40b8-a195-abe8fdd431f8)
 
 - Toma de USB Hembra
+
 ![image](https://github.com/user-attachments/assets/c3d4e377-f794-4f23-8a97-567f73e9cd38)
 
 
