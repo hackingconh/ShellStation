@@ -9,10 +9,10 @@ Todo lo mostrado es con fines educativos para demostrar que hay que proteger nue
 
 # Materiales 
 - Mando de PS4 o en mi caso PS5
-![Mando](https://github.com/user-attachments/assets/8d731eb6-b32d-46b6-9ccc-64889b01a272)
+![image](https://github.com/user-attachments/assets/e348eaee-318b-4377-901b-48893bf7e4cc)
 
 - Cableado de 4 hilos:
-- ![Cable](https://github.com/user-attachments/assets/745f3636-4af0-46be-a6ea-117835d84a05)
+![image](https://github.com/user-attachments/assets/47210e91-c28b-44d9-bc35-11e8571e1b57)
   
    - Rojo (🔴) → VCC (+5V) → Es el cable de alimentación positiva.
    - Negro (⚫) → GND (Tierra) → Es el cable de tierra o negativo.
@@ -20,8 +20,9 @@ Todo lo mostrado es con fines educativos para demostrar que hay que proteger nue
    - Verde (🟢) → D+ (Datos +) → Es el otro cable de datos.
 
 - USB
-![usb](https://github.com/user-attachments/assets/b00f4faa-5420-48a6-ad44-895349693193)
+![image](https://github.com/user-attachments/assets/25f3957b-ff72-40b8-a195-abe8fdd431f8)
 
 - Toma de USB Hembra
-![hembra](https://github.com/user-attachments/assets/de12eea7-cc12-4c09-84af-5f3c0697ac43)
+![Uploading image.png…]()
+
 
