@@ -53,7 +53,7 @@ Este método solo funciona si el autorun está activado, en tu caso si no esta a
 
 ![image](https://github.com/user-attachments/assets/b9f181bd-1407-4273-831c-3fe27ee6009c)
 
-5. Crea la reverse shell en powershell (En mi caso cree una tool para crearla automaticámente) | NO voy a enseñar como se hace, te lo dejo como tarea para qque aprendas :)
+5. Crea la reverse shell en powershell (En mi caso cree una tool para crearla automaticámente) | NO voy a enseñar como se hace, te lo dejo como tarea para que aprendas :)
 6. Ofuscar la Reverse Shell con Invoke-Obfuscation
   - git clone https://github.com/danielbohannon/Invoke-Obfuscation.git
   - cd Invoke-Obfuscation
